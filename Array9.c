@@ -1,3 +1,4 @@
+/*WAP to input 5 integers in array x. arrange values in ascending order*/ 
 #include<stdio.h>
 
 void main()
